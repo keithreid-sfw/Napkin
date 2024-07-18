@@ -1,3 +1,6 @@
+submitted to journal of note
+sharing it here quietly under AOM rules
+
 Dr Keith S. Reid 1 2
 keithreid@nhs.net
 1. Department of Health and Life Sciences, University of Northumbria at Newcastle
@@ -6,7 +9,9 @@ NHS Foundation Trust, Newcastle
 
 The author gratefully acknowledges Aji Lewis MBE, Peter McMeekin and Mick Hill.
 
-Abstract
+**Abstract**
+
+
 Mann-Whitney U test, a canonical test of the order of two groups, does not handle
 ties. Typical implementations use approximations fragile to small samples. These
 problems are troublesome in certain clinical situations where a small range of possible
