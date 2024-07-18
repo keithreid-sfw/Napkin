@@ -1,8 +1,11 @@
 submitted to journal of note
+
+
 sharing it here quietly under AOM rules
 
 Dr Keith S. Reid 1 2
-keithreid@nhs.net
+[email redacted]
+
 1. Department of Health and Life Sciences, University of Northumbria at Newcastle
 2. Positive and Safe Care team, Cumbria Northumberland Tyne and Wear
 NHS Foundation Trust, Newcastle
